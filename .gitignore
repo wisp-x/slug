@@ -1,0 +1,7 @@
+.idea
+/vendor
+composer.lock
+*.DS_Store
+.phpcomplete_extended
+*.cache
+.iml
