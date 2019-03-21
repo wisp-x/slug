@@ -1,9 +1,9 @@
 # Slug
 
-[![Build Status](https://travis-ci.org/wisp-x/slug.svg?branch=master)](https://travis-ci.org/wisp-x/slug)
-[![Total Downloads](https://poser.pugx.org/wisp-x/slug/downloads)](https://packagist.org/packages/wisp-x/slug)
-[![Latest Stable Version](https://poser.pugx.org/wisp-x/slug/version)](https://packagist.org/packages/wisp-x/slug)
-[![License](https://poser.pugx.org/wisp-x/slug/license)](https://packagist.org/packages/wisp-x/slug)
+[![PHP](https://img.shields.io/badge/PHP->=5.6-orange.svg)](http://php.net)
+[![Total Downloads](https://poser.pugx.org/wispx/slug/downloads)](https://packagist.org/packages/wispx/slug)
+[![Latest Stable Version](https://poser.pugx.org/wispx/slug/version)](https://packagist.org/packages/wispx/slug)
+[![License](https://poser.pugx.org/wispx/slug/license)](https://packagist.org/packages/wispx/slug)
 
 > 使用有道翻译实现的中文转英文、友好的、利于 SEO 的 URL 结构。
 
