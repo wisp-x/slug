@@ -27,7 +27,7 @@ composer require wispx/slug
 或者在你的 `composer.json` 文件中添加:
 
 ```json
-"wisp-x/slug": "~1.0"
+"wispx/slug": "~1.0"
 ```
 然后执行 `composer update`
 
