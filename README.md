@@ -1,7 +1,6 @@
 # Slug
 
 [![Build Status](https://travis-ci.org/wisp-x/slug.svg?branch=master)](https://travis-ci.org/wisp-x/slug)
-[![Build Status](https://scrutinizer-ci.com/g/wisp-x/slug/badges/build.png?b=master)](https://scrutinizer-ci.com/g/wisp-x/slug/build-status/master)
 [![Total Downloads](https://poser.pugx.org/wisp-x/slug/downloads)](https://packagist.org/packages/wisp-x/slug)
 [![Latest Stable Version](https://poser.pugx.org/wisp-x/slug/version)](https://packagist.org/packages/wisp-x/slug)
 [![License](https://poser.pugx.org/wisp-x/slug/license)](https://packagist.org/packages/wisp-x/slug)
